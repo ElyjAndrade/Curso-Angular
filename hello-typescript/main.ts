@@ -21,3 +21,6 @@ class Matematica {
     }
 }
 
+var n1: any = 'sdfsdf';
+n1 = 4
+

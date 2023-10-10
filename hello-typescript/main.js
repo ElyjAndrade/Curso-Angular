@@ -4,7 +4,7 @@ function minhaFunc(x, y) {
 }
 // ecmascript javascript
 var num = 2;
-var PI = 3.14; 
+var PI = 3.14;
 var numeros = [1, 2, 3];
 numeros.map(function (valor) {
     return valor * 2;
@@ -19,3 +19,5 @@ var Matematica = /** @class */ (function () {
     };
     return Matematica;
 }());
+var n1 = 'sdfsdf';
+n1 = 4;
